@@ -87,6 +87,7 @@ package-mode = false
 authors = ["XiaoDeng3386 <1744793737@qq.com>"]
 license = "AGPL-3.0"
 readme = "README.md"
+exclude = ["plugins/*"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
